@@ -46,6 +46,28 @@ This dashboard was built using the popular Superstore dataset, which simulates r
 - `Rosario_Dawryn_Dashboard.twbx`: Tableau workbook
 - `dashboard-screenshots/`: images of the dashboard interface
 
+## 📷 Dashboard Previews
+
+### U.S. Sales Distribution by State
+![U.S. Sales Distribution](dashboard-screenshots/map.png)
+
+---
+
+### Sales Share by Product Category
+![Product Category Pie Chart](dashboard-screenshots/donut_chart.png)
+
+---
+
+### Top 10 Sub-Categories by Total Sales
+![Bar Chart of Sub-Categories](dashboard-screenshots/bar_chart.png)
+
+---
+
+### Sales Trend by Category (2011–2014)
+![Line Chart by Category Over Time](dashboard-screenshots/line_chart.png)
+
+
+
 ## Key Takeaways
 
 This dashboard demonstrates advanced use of Tableau for data exploration and stakeholder communication. Built with scalability and decision-making in mind, it reflects strong visual design principles and a user-first approach.
