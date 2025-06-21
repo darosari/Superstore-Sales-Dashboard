@@ -1,25 +1,51 @@
-# Superstore-Sales-Dashboard
+# Superstore Sales Dashboard (Tableau)
+
+This project is an interactive data dashboard built in Tableau, designed to help users explore and analyze key performance indicators and trends. The dashboard focuses on usability, storytelling, and insight-driven design, allowing users to intuitively explore complex datasets.
+
+## Features
+
+- Clean and responsive layout with multi-tab navigation
+- Custom filters, slicers, and drill-down interactivity
+- Visual storytelling using line charts, bar graphs, and highlight tables
+- Emphasis on accessibility and end-user experience
+
 ## Extended Description
 
-This interactive Tableau dashboard was built using the popular Superstore dataset, which simulates retail sales data across categories like Office Supplies, Furniture, and Technology. The dashboard is designed to help users analyze regional performance, segment profitability, and sales trends through a highly visual and user-driven interface.
+This dashboard was built using the popular Superstore dataset, which simulates retail sales data across categories like Office Supplies, Furniture, and Technology. It’s designed to help users analyze regional performance, segment profitability, and sales trends through a highly visual and user-driven interface.
 
 ### Key Features:
 
 - **Sales & Profit Analysis:**  
-  Users can explore metrics such as total sales, profit margins, and order volume across regions, product categories, and customer segments.
+  Analyze metrics like sales, profit margins, and order volume across regions, categories, and segments.
 
 - **Time-Based Trends:**  
-  Built-in filters allow for dynamic year-over-year or monthly performance comparison, making it easy to identify seasonal patterns and sales cycles.
+  Explore monthly and yearly performance to identify seasonal trends and cycles.
 
 - **Top/Bottom Performance:**  
-  Visualizations highlight best-performing and underperforming product categories and regions, enabling better inventory, marketing, and operational decisions.
+  Identify best and worst performing product lines and regions to support inventory and marketing decisions.
 
 - **User Interactivity:**  
-  The dashboard includes drop-down filters and clickable elements for interactive data exploration, empowering both technical and non-technical users to derive insights effortlessly.
+  Includes filters and clickable visual elements that enhance user-driven exploration.
 
 - **Clean UX & Storytelling:**  
-  Emphasis was placed on making the interface intuitive and professional, using visual hierarchy and minimal clutter to guide the user through key narratives embedded in the data.
+  The layout prioritizes simplicity, flow, and visual hierarchy to guide user insight.
 
 ---
 
-Overall, this project showcases my ability to translate raw retail data into a polished, functional dashboard that supports business intelligence and decision-making. It demonstrates not only my Tableau proficiency, but also my understanding of user-centered design, exploratory analysis, and practical data storytelling.
+## Tools Used
+
+- Tableau Desktop
+- Data visualization & dashboard UX principles
+
+## Live Demo
+
+[View the live dashboard](https://us-east-1.online.tableau.com/#/site/shaamvisualanalytics/workbooks/2619872?:origin=card_share_link)
+
+## Files
+
+- `Rosario_Dawryn_Dashboard.twbx`: Tableau workbook
+- `dashboard-screenshots/`: images of the dashboard interface
+
+## Key Takeaways
+
+This dashboard demonstrates advanced use of Tableau for data exploration and stakeholder communication. Built with scalability and decision-making in mind, it reflects strong visual design principles and a user-first approach.
