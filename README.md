@@ -46,7 +46,7 @@ This dashboard was built using the popular Superstore dataset, which simulates r
 - `Rosario_Dawryn_Dashboard.twbx`: Tableau workbook
 - `dashboard-screenshots/`: images of the dashboard interface
 
-## 📷 Dashboard Previews
+## Dashboard Previews
 
 ### U.S. Sales Distribution by State
 ![U.S. Sales Distribution](Dashboard-Screenshots/map.png)
