@@ -49,22 +49,22 @@ This dashboard was built using the popular Superstore dataset, which simulates r
 ## 📷 Dashboard Previews
 
 ### U.S. Sales Distribution by State
-![U.S. Sales Distribution](dashboard-screenshots/map.png)
+![U.S. Sales Distribution](Dashboard-Screenshots/map.png)
 
 ---
 
 ### Sales Share by Product Category
-![Product Category Pie Chart](dashboard-screenshots/donut_chart.png)
+![Product Category Pie Chart](Dashboard-Screenshots/donut_chart.png)
 
 ---
 
 ### Top 10 Sub-Categories by Total Sales
-![Bar Chart of Sub-Categories](dashboard-screenshots/bar_chart.png)
+![Bar Chart of Sub-Categories](Dashboard-Screenshots/bar_chart.png)
 
 ---
 
 ### Sales Trend by Category (2011–2014)
-![Line Chart by Category Over Time](dashboard-screenshots/line_chart.png)
+![Line Chart by Category Over Time](Dashboard-Screenshots/line_chart.png)
 
 
 
