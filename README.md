@@ -1,4 +1,4 @@
-# interactive-data-dashboard
+# Superstore-Sales-Dashboard
 ## Extended Description
 
 This interactive Tableau dashboard was built using the popular Superstore dataset, which simulates retail sales data across categories like Office Supplies, Furniture, and Technology. The dashboard is designed to help users analyze regional performance, segment profitability, and sales trends through a highly visual and user-driven interface.
